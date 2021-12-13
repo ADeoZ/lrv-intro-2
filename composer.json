@@ -1,0 +1,13 @@
+{
+    "name": "denisov/lrv-intro",
+    "description": "Homework for the first lesson in Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aleksey Denisov",
+            "email": "deoz@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
